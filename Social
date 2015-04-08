@@ -1,0 +1,45 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title> Social </title>
+	<style type="text/css">
+    h1{font-family: Comic Sans MS; text-align:center; text-decoration: line-through; color:White}
+     h2{font-family: Courier new; color:White}
+  h3{font-family: Courier new; text-align:center; color:White}
+  h4{font-family: Courier new; text-align:center; color:White}
+    p{font-family: Courier new; text-align:center; color:White}
+    IMG.displayed{display:block;
+    margin-left: auto;
+    margin-right: auto}
+    body{background-color: black}
+  </style>
+</head>
+<body>
+<h1 STYLE="font-size:60px">Social</h1>
+<table border="0">
+<tr>
+<td STYLE="width:100px" align="center"><a href="index.html">HOME</a></td>
+<td STYLE="width:100px" align="center"><a href="mywork.html">MY WORK</a></td>
+<td STYLE="width:100px" align="center"><a href="gallery.html">GALLERY</a></td>
+<td STYlE="width:100px" align="center"><a href="social.html">SOCIAL</a></td>
+</tr>
+</table> 
+<div>
+  <h2 STYLE="font-size: 24px; text-align: left">Keeping Up With Lance</h2>
+  <p STYLE="text-align: left">Hey guys! If you feel so inclined<br> to keep up with me via social media,<br> I have included two of the sites I most frequent.<br> Here is my Tumblr, which is all kinds of silly,<br> social activist and diverse.<br>And then there is my instagram<br> which is more focused on my social life, friends,<br> loved ones, and of course me!<br> I look forward to connecting with you all!</p>
+  </div>
+	<p><IMG class="displayed" src= 'Photo Feb 14, 8 46 59 AM.jpg' ALT="CloseUp" height="320" width="240"></p>
+	<div>
+	
+	<h3 STYLE="font-size: 24px;">Tumblr</h3>
+	<p STYLE="font-size: 18px;"><a href="http://floeticverse.tumblr.com">floeticverse.tumblr.com</a></p>
+	</div>
+	<div>
+	
+	<h4 STYLE="font-size: 24px;">Instagram</h4>
+	<p STYLE="font-size: 18px;"><a href="https://instagram.com/l_egant_l/">l_egant_l</a></p>
+	</div>
+
+</body>
+</html>
