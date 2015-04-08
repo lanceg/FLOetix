@@ -1,0 +1,43 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title> FlOetix </title> 
+	<style type="text/css"> 
+		h1{font-family: Comic Sans MS; text-align:center; text-decoration: line-through; color:White} 
+		h2{font-family: Tahoma; color: White; text-align: left} 
+		h3{font-family: Tahoma; color: White; text-align: left}
+		p{font-family: Georgia;text-align:left;color:White;font-size:24px;}
+		img{float:right;}
+		td{height:1; colspan=10; table border=0;}
+		body{background-color: black}
+	</style> 
+</head>
+<body>
+<h1 STYLE="font-size:60px">FLOetix</h1> 
+
+<table border="0">
+<tr>
+<td STYLE="width:100px" align="center"><a href="index.html">HOME</a></td>
+<td STYLE="width:100px" align="center"><a href="mywork.html">MY WORK</a></td>
+<td STYLE="width:100px" align="center"><a href="gallery.html">GALLERY</a></td>
+<td STYlE="width:100px" align="center"><a href="social.html">SOCIAL</a></td>
+</tr>
+</table> 
+<p><img src = 'Photo Feb 21, 8 24 21 AM.jpg' ALT="Photo of Me" height="320" width="320" ></p>
+<div>
+
+
+
+<h2 STYLE="font-size: 30px; text-align: left">ABOUT Me</h2>
+
+<p>My name is Lance L. Griffin. I was born in Denver, CO. At the oh so awkward age of 14 I relocated to Toccoa, GA. If you had to Google "Toccoa," that is indicative of the sheer elusivity of the town, which is tucked away in the Northeast Georgia area. Now I call Baton Rouge, LA home. You can say I'm all over the place.</p>
+<p>I'm a third year student at the University of Georgia, meaning I am (hopefully) on my way out of here! I major in Psychology. I am a gay man, LGBTQA activist, feminist, and I am absolutely in love with the melanin in my skin.</p>
+<h3 STYLE="font-size: 30px; text-align: left">ABOUT FLOetix</h3>
+<p>Although writing is not my intended career goal, I have a strong affinity for writing. Ever since I learned how to read the English language I have been devouring words and regurgitating them in as many different ways as my mind can produce them. It is amazing to me how powerful words are. I hope that my words move you and make you think. I hope my words are infectious and fluid, yes, I hope my words surge through you like the blood that is circulating through your body. I hope I can make you laugh, and make you cry.</p>
+<p>I appreciate any time you invest in my art form! On this site, you will find a collection of three of my favorite pieces that I have written so far. This is like a sip from the holy grail of all things Lance! On here you will also find a few of my favorite pictures I have taken within the last year. This just means they are pictures I have taken that are sporadically themed. I truly hope this gives you an idea of my writing capabilities and also gives you an impression of the person I am. Lastly, you will see some of the ways in which you can get in contact with me via social media. I hope you enjoy  <b>FLO</b>etix!</p>
+</div>		
+
+</body>
+</html>
+	
