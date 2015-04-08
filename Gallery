@@ -1,0 +1,47 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title> Gallery </title>
+	<style type="text/css">
+	h1{font-family: Comic Sans MS; text-align:center; text-decoration: line-through; color:White} 
+  h2{font-family: Comic Sans MS; text-align:left; color:White}
+  h3{font-family: Comic Sans MS; text-align:left; color:White}
+  h4{font-family: Comic Sans Ms; text-align:left; color:White}
+  h5{font-family: Comic Sans MS; text-algin:left; color:White}
+  h6{font-family: Comic Sans MS; text-align:left; color:White}
+  body{background-color: black}
+	</style>
+</head>
+<body>	
+<div>
+<h1 STYLE="font-size:60px">Gallery</h1>
+<table border="0">
+<tr>
+<td STYLE="width:100px" align="center"><a href="index.html">HOME</a></td>
+<td STYLE="width:100px" align="center"><a href="mywork.html">MY WORK</a></td>
+<td STYLE="width:100px" align="center"><a href="gallery.html">GALLERY</a></td>
+<td STYlE="width:100px" align="center"><a href="social.html">SOCIAL</a></td>
+</tr>
+</table> 
+<h2 STYLE="font-size:24px">Me</h2>
+<p><img src= 'Photo Feb 14, 1 43 28 AM.jpg' ALT="PicStich" height="512" width="512" ></p>
+</div>
+<div>
+<h3 STYLE="font-size:24px">Midas Family</h3>
+<p><img src= 'Photo Mar 10, 3 57 11 PM.jpg' ALT="MidasFamily" height="612" width="612" ></p> 
+</div>
+<div>
+<h4 STYLE="font-size:24px">Alvin and I</h4> 
+<p><img src= 'Photo Apr 06, 10 46 37 PM.jpg' ALT="AlvinandI" height="800" width="450" ></p> 
+</div>
+<div>
+<h5 STYLE="font-size:24px">New Years Eve 2014</h5>
+<p><img src= 'Photo Apr 06, 10 44 57 PM.jpg' ALT="NewYearsEve" height="500" width="500" ></p>
+</div>
+<div>
+<h6 STYLE="font-size:24px">My 2014-2015 Work Study at the UGA LGBTQRC</h6>
+<p><img src= 'IMG_7465.JPG' ALT="WorkStudy" height="480" width="640" ></p>
+</div>
+</body>
+</html>
